@@ -1,6 +1,5 @@
 功能:當按鈕按下時 LED亮起
-c++
-```
+```c++
 void setup() {
 
   // put your setup code here, to run once:
